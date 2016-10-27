@@ -1,0 +1,29 @@
+﻿body {
+}
+
+#content{
+    width: 1360px;
+}
+
+#cabecalho{
+height: 200px;
+background-color: deepskyblue;
+}
+#menu{
+
+    height: 30px;
+}
+#paginas{
+
+
+}
+#rodape{
+    height: 100px;
+    background-color: deepskyblue;
+}
+
+.botoes{
+    width: 260px;
+    height: 30px;
+    float: left;
+}
